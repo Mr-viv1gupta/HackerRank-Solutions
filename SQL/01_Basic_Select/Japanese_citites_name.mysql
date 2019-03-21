@@ -1,0 +1,7 @@
+		@Author : Vivek Kumar
+		@github : github.com/Mr-viv1gupta
+	@HackerRank : hackerrank.com/viv1gupta9872
+	@Suppor : ORACLE
+
+
+SELECT name from CITY WHERE countrycode = 'JPN';

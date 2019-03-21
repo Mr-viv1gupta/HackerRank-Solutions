@@ -1,0 +1,11 @@
+		@Author : Vivek Kumar
+		@github : github.com/Mr-viv1gupta
+	@HackerRank : hackerrank.com/viv1gupta9872
+	@Suppor : ORACLE
+
+
+/*
+Enter your query here.
+Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
+*/
+SELECT DISTINCT city from STATION WHERE REGEXP_LIKE((city), '^[^aeiouAEUOI].*[^aeiouAEIOU]$');
