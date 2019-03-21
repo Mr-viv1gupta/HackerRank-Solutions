@@ -1,0 +1,7 @@
+		@Author : Vivek Kumar
+		@github : github.com/Mr-viv1gupta
+	@HackerRank : hackerrank.com/viv1gupta9872
+
+	@Support : ORACLE
+
+SELECT * from CITY WHERE countrycode = 'USA' AND population > 100000;
